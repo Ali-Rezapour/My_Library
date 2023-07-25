@@ -1,0 +1,13 @@
+.books-container{
+    display: flex;
+}
+.books-list{
+    border-left: solid 1px;
+    padding: 1rem;
+    background: linear-gradient(#43cea2,#185a9d);
+    position: relative;
+    top: 0;
+    height: 84.8vh;
+    overflow: auto;
+    direction: ltr;
+}

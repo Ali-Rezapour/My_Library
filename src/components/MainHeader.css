@@ -1,0 +1,25 @@
+.main-header{
+    background: linear-gradient(#41295a,#2F0743);
+    position: relative;
+    z-index: 1;
+}
+.main-header h1{
+    margin: 0;
+    padding: 1vh;
+    color: white;
+    display: inline-block;
+}
+.header-nav{
+    border-bottom: solid 1px;
+    padding-bottom: 1rem;
+}
+.main-header-link{
+    text-decoration: none;
+    margin: 2vh;
+    padding: .8vh;
+    color: white;
+}
+.main-header-link:hover{
+    background-color: #1da1f2;
+    border-radius: 10%;
+}
